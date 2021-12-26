@@ -18,3 +18,5 @@ Kare Kod Oluşturma
 
 Güzel Sözler
 <a href="https://www.guzelsoz.net" title="güzel söz">Güzel Söz</a>
+
+!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://sohbettemasi.com">sohbettemasi</a>';document.body.insertBefore(a,document.body.childNodes[0])}}();
